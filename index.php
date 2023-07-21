@@ -1,4 +1,4 @@
 <?php 
-$a=15;
+$a=60;
 echo ("Hello world");
 ?>
